@@ -1,0 +1,30 @@
+
+DH + sarick
+determin number of impressions at all subway stops per day
+	exercise 1.3
+	sum entries exits per station per day
+	drop any outliers
+
+Travis
+Visualizations- 
+	impressions landscape- show top 50 stations on any 1 day
+	Distributions of impressions count post experiment 
+
+Kyle
+musician data set
+	150 musicians
+	5 types of performers
+	impressions count
+
+Sarick + Kyle
+allocation function:
+	top 50 stations, 
+	allocate 3 musicians per station
+	no overlap on type
+
+DH + Travis
+Presentation
+	powerpoint
+	Jargon
+	no vowels
+	etc.etc.etc.
